@@ -1521,7 +1521,7 @@ Action: Need more sequences to resolve; evolution ongoing
 
 ## The Current Situation
 
-As of **June 2024**, Nextstrain does **not** have a dedicated RVFV build, despite:
+As of **June 2026**, Nextstrain does **not** have a dedicated RVFV build, despite:
 - 20+ years of available sequence data
 - Recent outbreaks in Kenya (2021), Saudi Arabia (2022), Somalia (2023)
 - Global public health importance
@@ -2330,7 +2330,7 @@ This documentation was prepared as educational material for genomic epidemiology
 ---
 
 **Document Version**: 1.0  
-**Last Updated**: June 2024  
+**Last Updated**: June 2026  
 **Author**: Gilbert Kibet, ILRI  
 **Intended Audience**: Virology students, genomics researchers, public health professionals  
 
