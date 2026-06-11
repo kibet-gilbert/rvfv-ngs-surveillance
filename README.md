@@ -78,13 +78,11 @@ RVFV_Primer_Scheme_Figure.png (300 DPI)
 
 ### 2. Comprehensive Documentation (16 Files)
 
-#### Core Teaching Materials
+#### Core Teaching Materials: [docs](./docs/)
 | File | Size | Purpose |
 |------|------|---------|
 | **RVFV_NGS_Presentation_Guide.md** | 44 KB | Speaker notes (16,000+ words) |
 | **NGS_QuickReferenceGuide.md** | 13 KB | Student handout (5,000 words) |
-| **PRESENTATION_OVERVIEW_AND_STRUCTURE.md** | 17 KB | Visual slide breakdown |
-| **PRESENTATION_REVIEW_AND_SUMMARY.md** | 22 KB | Facilitator preparation guide |
 
 #### Bioinformatics Workflows
 | File | Size | Purpose |
@@ -570,9 +568,6 @@ GitHub. Retrieved from https://github.com/kibet-gilbert/rvfv-ngs-surveillance
 - Expertise: RVFV genomics, amplicon sequencing
 
 **Additional Resources:**
-- ILRI: https://www.ilri.org/
-- NDP-VIP Program: https://ndp-vip.se/
-- Umeå University: https://www.umu.se/
 
 ---
 
