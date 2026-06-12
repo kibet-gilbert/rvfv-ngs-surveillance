@@ -697,11 +697,11 @@ These materials support **genomic epidemiology capacity building** for:
 ## Acknowledgments
 
 Special thanks to:
-- **ILRI Genomics Platform** (data, validation, expertise)
+- **ILRI Genomics Platform** (drafting, data, validation, expertise)
 - **Umeå University NDP-VIP program** (hosting, feedback, context)
 - **Genome Detective & Nextstrain teams** (tool access, documentation)
 - **Students and colleagues** (questions, suggestions, improvement ideas)
-- **Peer reviewers** (Oyola, Juma, and others for scientific rigor)
+- **Peer reviewers** (S. Oyola, J. Juma, K. Mwangi, E. Kiritu and others for scientific rigor)
 
 ---
 
