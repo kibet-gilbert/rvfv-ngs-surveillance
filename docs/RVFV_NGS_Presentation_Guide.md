@@ -5,7 +5,7 @@
 **Presentation Date:** June 12, 2026  
 **Venue:** Umeå University, Umeå, Sweden  
 **Course:** National Doctoral Programme in Virus Infections and Pandemics (NDP-VIP)  
-**Author:** Edward Kiritu, ILRI Genomics Platform  
+**Author:** Gilbert Kibet, ILRI Genomics Platform  
 
 ---
 

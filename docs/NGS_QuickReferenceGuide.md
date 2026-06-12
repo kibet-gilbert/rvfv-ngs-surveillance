@@ -42,7 +42,7 @@ START: Sample with unknown virus?
     │   └─ → METAGENOMICS (cost-effective, straightforward)
     │
     ├─ Ct 25-30 (MODERATE)
-    │   └─ → AMPLICON PCR (recommended) ⭐⭐⭐
+    │   └─ → AMPLICON PCR (recommended)
     │
     ├─ Ct 30-35 (LOW)
     │   └─ → AMPLICON PCR (only viable option)
@@ -95,9 +95,9 @@ Ct Value Range:     Coverage:       Time:              Cost:
 ### Compared to Alternatives
 ```
 Method              Coverage:       Time:              Cost:
-Cell Culture        >99%            7-14 days          $200-500
+Cell Culture       >99%             7-14 days          $200-500
 Metagenomics       25-70%           1-2 weeks          $500-1000
-Amplicon PCR ⭐⭐⭐  80-97%           24-48 hours        $50-100
+Amplicon PCR       80-97%           24-48 hours        $50-100
 ```
 
 ---
@@ -376,6 +376,6 @@ Before sending sample to lab:
 
 ---
 
-*Last updated: June 2026*
-*Designed for: National Doctoral Programme in Virus Infections and Pandemics (NDP-VIP)*
-*Prepared by: Edward Kiritu, ILRI Genomics Platform*
+*Last updated: June 2026*   
+*Designed for: National Doctoral Programme in Virus Infections and Pandemics (NDP-VIP)*   
+*Prepared by: Gilbert Kibet, ILRI Genomics Platform*
