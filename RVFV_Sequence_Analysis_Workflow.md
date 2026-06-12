@@ -39,7 +39,7 @@ This documentation provides a step-by-step guide for analyzing Rift Valley fever
 
 **Alternative**:  
 For quick analysis you can skip _**Data retrival**_ and _**Quality control**_ and go straight to **[PART 4: GENERATING CONSENSUS SEQUENCES IN GENOME DETECTIVE](#part-4-generating-consensus-sequences-in-genome-detective)**.  
-- Use pre-prepared data available on ILRI HPC cluster here: [ndp_vip](https://hpc.ilri.cgiar.org/~gkibet/ndp_vip/)
+- Use pre-prepared data available on ILRI HPC cluster here: [ndp_vip](https://hpc.ilri.cgiar.org/~gkibet/ndp_vip/); also accessible in this repo in [datasets](./datasets/)
 - Use this method to completely skip the command line - Installation/Sequence Retrieval/Analysis/: [Part 1](#part-1-accessing-rvfv-sequences-from-sra), [Part 2](#part-2-downloading-pe-raw-datasets-with-sra-tools), [Part 3](#part-3-analyzing-fastq-datasets) and [Part 4](#part-4-generating-consensus-sequences-in-genome-detective)
 
 ---
