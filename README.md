@@ -605,7 +605,7 @@ GitHub. Retrieved from https://github.com/kibet-gilbert/rvfv-ngs-surveillance
 
 ### Who Has Used These Materials?
 
-- ✓ Umeå University NDP-VIP students (June 2024)
+- ✓ Umeå University NDP-VIP students (June 2026)
 - ✓ Individual researchers (through GitHub)
 - ✓ Workshop participants (pending)
 
@@ -639,22 +639,22 @@ If you've used these materials:
 
 ## FAQ
 
-**Q: Can I use these materials in my course?**
+**Q: Can I use these materials in my course?**   
 A: Yes! CC BY 4.0 license allows it. Just provide attribution and link to this repository.
 
-**Q: Do I need bioinformatics experience?**
+**Q: Do I need bioinformatics experience?**   
 A: No. Materials are designed for beginners. Some sections are more technical, but core content is accessible.
 
-**Q: Can I modify the slides?**
+**Q: Can I modify the slides?**   
 A: Yes. Download the PowerPoint and edit freely. Just cite the original source.
 
-**Q: Is there a video version?**
+**Q: Is there a video version?**   
 A: Not yet, but we're working on it. Contributions welcome!
 
-**Q: What if I find an error?**
+**Q: What if I find an error?**   
 A: Please report via GitHub Issues. We'll fix it and acknowledge you.
 
-**Q: Can I translate to my language?**
+**Q: Can I translate to my language?**   
 A: Absolutely! Fork the repository, translate, and submit a Pull Request.
 
 ---
@@ -707,10 +707,10 @@ Special thanks to:
 
 | Resource | Link |
 |----------|------|
-| **Main Presentation** | `RVFV_NGS_Presentation_Final.pptx` |
-| **Speaker Notes** | `RVFV_NGS_Presentation_Guide.md` |
-| **Student Handout** | `NGS_QuickReferenceGuide.md` |
-| **Bioinformatics Guide** | `Complete_RVFV_Genomic_Analysis_Workflow.md` |
+| **Main Presentation** | `docs/20260612_RVF_WholeGenomeSequencing.pdf` |
+| **Speaker Notes** | `docs/RVFV_NGS_Presentation_Guide.md` |
+| **Student Handout** | `docs/NGS_QuickReferenceGuide.md` |
+| **Bioinformatics Guide** | `RVFV_Sequence_Analysis_Workflow.md` |
 | **Tool: Genome Detective** | https://www.genomedetective.com |
 | **Tool: Nextstrain** | https://nextstrain.org |
 | **Tool: NCBI SRA** | https://www.ncbi.nlm.nih.gov/sra |
@@ -722,7 +722,7 @@ Special thanks to:
 ## Citation for This Repository
 
 ```
-Kibet, Gilbert. (2024). NGS-based pathogen surveillance: RVFV as a case study. 
+Kibet, Gilbert. (2026). NGS-based pathogen surveillance: RVFV as a case study. 
 GitHub repository. https://github.com/kibet-gilbert/rvfv-ngs-surveillance
 License: CC BY 4.0 | DOI (if registered): https://zenodo.org/...
 ```
@@ -731,7 +731,7 @@ License: CC BY 4.0 | DOI (if registered): https://zenodo.org/...
 
 **Welcome to the global community of genomic epidemiologists!** 🧬🌍
 
-*Last Updated: June 2024*  
+*Last Updated: June 2026*  
 *Status: Active & Maintained*  
 *License: CC BY 4.0*  
 *Repository: [rvfv-ngs-surveillance](https://github.com/kibet-gilbert/rvfv-ngs-surveillance)*
