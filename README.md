@@ -78,22 +78,24 @@ RVFV_Primer_Scheme_Figure.png (300 DPI)
 
 ### 2. Comprehensive Documentation (16 Files)
 
-#### Core Teaching Materials: [docs](./docs/)
-| File | Size | Purpose |
-|------|------|---------|
-| **RVFV_NGS_Presentation_Guide.md** | 44 KB | Speaker notes (16,000+ words) |
-| **NGS_QuickReferenceGuide.md** | 13 KB | Student handout (5,000 words) |
-
-#### Bioinformatics Workflows
-| File | Size | Purpose |
-|------|------|---------|
-| **Complete_RVFV_Genomic_Analysis_Workflow.md** | 50 KB | 25,000+ word comprehensive tutorial |
-| **RVFV_Sequence_Analysis_Workflow.md** | 35 KB | Condensed 10,000 word reference |
-
 #### This Repository
 | File | Size | Purpose |
 |------|------|---------|
 | **README.md** | This file | Navigation & overview |
+
+#### Bioinformatics Workflows
+| File | Size | Purpose |
+|------|------|---------|
+| [**RVFV_Sequence_Analysis_Workflow.md**](RVFV_Sequence_Analysis_Workflow.md) | 35 KB | Condensed 10,000 word reference |
+
+**Skip the rest of documentation and go directly to Genomics Sequence analysis Tutorial**  
+**Tutorial:** [**RVFV Sequence Analysis Workflow**](RVFV_Sequence_Analysis_Workflow.md)
+
+#### Core Teaching Materials: [docs](./docs/)
+| File | Size | Purpose |
+|------|------|---------|
+| **[RVFV_NGS_Presentation_Guide.md](docs/RVFV_NGS_Presentation_Guide.md)** | 44 KB | Speaker notes (16,000+ words) |
+| **[NGS_QuickReferenceGuide.md](docs/NGS_QuickReferenceGuide.md)** | 13 KB | Student handout (5,000 words) |
 
 ---
 
