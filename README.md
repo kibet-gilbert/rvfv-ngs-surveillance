@@ -3,7 +3,7 @@
 **A comprehensive lecture series and practical guide to genomic epidemiology for emerging infectious diseases**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2zenodo.20688985-blue)](https://doi.org/10.5281/zenodo.20688985)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20688985-blue)](https://doi.org/10.5281/zenodo.20688985)
 ![Release](https://img.shields.io/badge/Release-v1.0-brightgreen)
 ![Updated](https://img.shields.io/badge/Updated-June%202026-blue)
 ![Status](https://img.shields.io/badge/Status-Active%20--%20Maintained-blue)
