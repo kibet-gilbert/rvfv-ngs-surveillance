@@ -91,11 +91,12 @@ RVFV_Primer_Scheme_Figure.png (300 DPI)
 **Skip the rest of documentation and go directly to Genomics Sequence analysis Tutorial**  
 **Tutorial:** [**RVFV Sequence Analysis Workflow**](RVFV_Sequence_Analysis_Workflow.md)
 
-#### Core Teaching Materials: [docs](./docs/)
+#### Core Teaching Materials: [**documentations**](./docs/) and [**presenation slides**](./presentations/)
 | File | Size | Purpose |
 |------|------|---------|
 | **[RVFV_NGS_Presentation_Guide.md](docs/RVFV_NGS_Presentation_Guide.md)** | 44 KB | Speaker notes (16,000+ words) |
 | **[NGS_QuickReferenceGuide.md](docs/NGS_QuickReferenceGuide.md)** | 13 KB | Student handout (5,000 words) |
+| **[20260612_RVF_WholeGenomeSequencing.pdf](presentations/20260612_RVF_WholeGenomeSequencing.pdf)** | 17 MB | Presenation slides (34 pages - pdf/pptx) |
 
 ---
 
