@@ -304,51 +304,39 @@ All data presented is **peer-reviewed and validated** on real outbreak samples.
 ```
 rvfv-ngs-surveillance/
 │
-├─ PRESENTATION FILES
-│  ├─ RVFV_NGS_Presentation_Final.pptx ⭐
-│  │  └─ 38 slides, ready to deliver, 60–90 min
+├─ presenation (PRESENTATION FILES)
+│  ├─ 20260612_RVFV_WholeGenomeSequencing.* ⭐
+│  │  (34 slides, ready to deliver, 60–90 min)
 │  │
-│  ├─ RVFV_NGS_Presentation_Restructured.pptx
-│  │  └─ Alternative layout for different pedagogy
-│  │
-│  └─ RVFV_Primer_Scheme_Figure.*
-│     ├─ .png (300 DPI, print-quality)
-│     └─ .pdf (editable, publication-ready)
+│  └── RVFV_NGS_Presentation_DraftSlides.pptx
+│     (verbose alternative for detailed explanation)
 │
-├─ TEACHING MATERIALS
+├─ figures (Figures used in the presenation)
+│  (*.png - 300 DPI, print-quality)
+│  (*.pdf - editable, publication-ready)
+│
+├─ docs (TEACHING MATERIALS)
 │  ├─ RVFV_NGS_Presentation_Guide.md (16,000+ words)
 │  │  └─ Speaker notes for every slide
 │  │
-│  ├─ NGS_QuickReferenceGuide.md (5,000 words)
-│  │  └─ Student handout (print-friendly)
-│  │
-│  ├─ PRESENTATION_OVERVIEW_AND_STRUCTURE.md
-│  │  └─ Slide breakdown + timing guidance
-│  │
-│  └─ PRESENTATION_REVIEW_AND_SUMMARY.md
-│     └─ Facilitator preparation guide
+│  └─ NGS_QuickReferenceGuide.md (5,000 words)
+│     └─ Student handout (print-friendly)
 │
-├─ BIOINFORMATICS WORKFLOWS
-│  ├─ Complete_RVFV_Genomic_Analysis_Workflow.md (25,000 words)
-│  │  ├─ Part 1: Accessing SRA sequences
-│  │  ├─ Part 2: Downloading with SRA-Tools
-│  │  ├─ Part 3: FASTQ analysis (quality control)
-│  │  ├─ Part 4: Consensus generation (Genome Detective)
-│  │  ├─ Part 5: RVFV typing (lineage assignment)
-│  │  ├─ Part 6: Understanding Genome Detective (data policies, GDPR)
-│  │  ├─ Part 7: Nextstrain phylogenetics (Dengue/CHIKV)
-│  │  └─ Part 8: Why RVFV missing from Nextstrain (detailed analysis)
-│  │
-│  └─ RVFV_Sequence_Analysis_Workflow.md (10,000 words)
-│     └─ Condensed reference version
+├─ BIOINFORMATICS WORKFLOWS (RVFV_Genomic_Sequence_Analysis_Workflow.md)
+│  ├─ Part 1: Accessing SRA sequences
+│  ├─ Part 2: Downloading with SRA-Tools
+│  ├─ Part 3: FASTQ analysis (quality control)
+│  ├─ Part 4: Consensus generation (Genome Detective)
+│  ├─ Part 5: RVFV typing (lineage assignment)
+│  ├─ Part 6: Understanding Genome Detective (data policies, GDPR)
+│  ├─ Part 7: Nextstrain phylogenetics (Dengue/CHIKV)
+│  └─ Part 8: Why RVFV missing from Nextstrain (detailed analysis)
 │
-├─ DOCUMENTATION
-│  └─ README.md (THIS FILE)
-│     └─ Overview, quick start, navigation
-│
-└─ LICENSE & CITATIONS
-   ├─ CC BY 4.0 (Creative Commons)
-   └─ Citation instructions (in README)
+└─ README.md (THIS FILE - DOCUMENTATION)
+   ├─ Overview, quick start, navigation
+   └─ LICENSE & CITATIONS
+      ├─ CC BY 4.0 (Creative Commons)
+      └─ Citation instructions (in README)
 ```
 
 ---
@@ -520,18 +508,20 @@ GitHub repository, June 2026. https://github.com/kibet-gilbert/rvfv-ngs-surveill
 
 **APA Style:**
 ```
-Kibet, G. (2026). NGS-based pathogen surveillance: RVFV as a case study. 
-GitHub. Retrieved from https://github.com/kibet-gilbert/rvfv-ngs-surveillance
+Kibet, Gilbert. (2026). NGS-based pathogen surveillance: RVFV as a case study. 
+GitHub repository. https://github.com/kibet-gilbert/rvfv-ngs-surveillance
+License: CC BY 4.0 | DOI: https://doi.org/10.5281/zenodo.20688985
 ```
 
 **BibTeX:**
 ```bibtex
-@misc{kibet2026rvfv,
+@software{kibet2024rvfv,
   author = {Kibet, Gilbert},
   title = {NGS-based pathogen surveillance: {RVFV} as a case study},
-  year = {2026},
-  url = {https://github.com/kibet-gilbert/rvfv-ngs-surveillance},
-  note = {GitHub repository}
+  version = {1.0.0},
+  year = {2024},
+  url = {https://doi.org/10.5281/zenodo.20688985},
+  doi = {10.5281/zenodo.20688985}
 }
 ```
 
@@ -569,26 +559,6 @@ GitHub. Retrieved from https://github.com/kibet-gilbert/rvfv-ngs-surveillance
 - Role: Lead content developer, research associate
 - Affiliation: ILRI Genomics Platform
 - Expertise: RVFV genomics, amplicon sequencing
-
-**Additional Resources:**
-
----
-
-## Repository Statistics
-
-| Metric | Value |
-|--------|-------|
-| Total files | 10 main + README |
-| Total documentation | ~100,000 words |
-| Slides | 38 (presentation-ready) |
-| Figures | 15+ publication-quality |
-| Tables | 30+ data & reference |
-| Code blocks | 50+ (ready to copy/paste) |
-| Referenced publications | 10+ peer-reviewed |
-| External tools | 8+ (all free/open) |
-| Estimated reading time | 20–30 hours |
-| Estimated delivery time | 90 minutes (lecture) |
-| Estimated workshop time | 6 hours (full day) |
 
 ---
 
@@ -720,27 +690,6 @@ Special thanks to:
 | **Publication 1** | https://doi.org/10.1186/s12864-022-08764-6 |
 | **Publication 2** | https://doi.org/10.3390/v15020477 |
 
----
-
-## Citation for This Repository
-
-```
-Kibet, Gilbert. (2026). NGS-based pathogen surveillance: RVFV as a case study. 
-GitHub repository. https://github.com/kibet-gilbert/rvfv-ngs-surveillance
-License: CC BY 4.0 | DOI: https://doi.org/10.5281/zenodo.20688985
-```
-
-**BibTeX:**
-```bibtex
-@software{kibet2024rvfv,
-  author = {Kibet, Gilbert},
-  title = {NGS-based pathogen surveillance: {RVFV} as a case study},
-  version = {1.0.0},
-  year = {2024},
-  url = {https://doi.org/10.5281/zenodo.XXXXXXX},
-  doi = {10.5281/zenodo.XXXXXXX}
-}
-```
 ---
 
 **Welcome to the global community of genomic epidemiologists!** 🧬🌍
